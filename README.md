@@ -13,7 +13,8 @@ Along with starting your apps, it also shows a random fortune cookie message.
 
 <h3>Usage</h3>
 Add an alias for the script in .zshrc:
-alias hello-world='python <replace-with-project-directory-path>/hello-world.py | lolcat'
+
+`alias hello-world='python <replace-with-project-directory-path>/hello-world.py | lolcat'`
 
 Run the script from your terminal:
 `hello-world`
